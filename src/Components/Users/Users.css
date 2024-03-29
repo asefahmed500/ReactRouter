@@ -3,3 +3,7 @@
     grid-template-columns: repeat(3 ,1fr);
     gap:20px
 }
+nav a.active{
+    text-decoration: underline;
+    background-color: rgb(251, 251, 251);
+}
